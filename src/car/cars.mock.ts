@@ -1,6 +1,6 @@
 export const CARS = [
   {
-    id: '1555555555',
+    id: 1,
     brand: 'Toyota',
     color: 'white',
     model: 'Supra',
